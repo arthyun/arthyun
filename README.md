@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vuex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.jsx&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/>
