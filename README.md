@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <h2>🛠Tech Stack🛠</h2>
 <div>
+   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
@@ -35,8 +37,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/>
