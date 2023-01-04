@@ -27,14 +27,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/LESS-1D365D?style=flat-square&logo=Less&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=Json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=Json&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>
