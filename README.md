@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align='center'>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthyun&count_bg=%23A300DA&title_bg=%235B5B5B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/arthyun)
 
 <h1>Welcome!🤗</h1>
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/INDESIGN-FF3366?style=flat-square&logo=Adobeindesign&logoColor=white"/>
   <img src="https://img.shields.io/badge/PREMIEREPRO-9999FF?style=flat-square&logo=Adobepremierepro&logoColor=white"/>
+</div>
   
 </div>
 
