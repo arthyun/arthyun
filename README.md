@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 
 <h1>Hi there! I'm Front-end-developer</h1>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
+<h2>📌Skills</h2>
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
+</div>
+
