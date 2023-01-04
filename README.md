@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <h1>Welcome!🤗</h1>
 <p>🙋‍♂️ I'm hyun. Nice to meet u 🙋‍</p>
-<p>💻 I Will Front-end-developer 💻</p>
-<p>🧩 I'm Growing everyday 🧩</p>
+<p>💻 I will Front-end-developer 💻</p>
+<p>🧩 I'm growing everyday 🧩</p>
 
 <h2>🛠Tech Stack🛠</h2>
 <div>
