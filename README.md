@@ -37,8 +37,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/INDESIGN-FF3366?style=flat-square&logo=Adobeindesign&logoColor=white"/>
