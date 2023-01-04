@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>💻 I will Front-end-developer. 💻</p>
 <p>🧩 I'm growing everyday. 🧩</p>
 
-   <h2>🛠Tech Stack🛠</h2>
+   <h2>🛠 Tech Stack 🛠</h2>
    <div>
      <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
      <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/PREMIEREPRO-9999FF?style=flat-square&logo=Adobepremierepro&logoColor=white"/>
    </div>
   
-   <h2>📌Operating System📌</h2>
+   <h2>🌎 Operating System Available 🌎</h2>
    <div>
      <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
      <img src="https://img.shields.io/badge/MACOS-000000?style=flat-square&logo=Macos&logoColor=white"/>
