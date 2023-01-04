@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <div align='center'>
 
 <h1>Welcome!🤗</h1>
-<p>Will Front-end-developer🧒</p>
-<p>Growing everyday🧩</p>
+<p>🙋‍♂️ I'm hyun. Nice to meet u 🙋‍</p>
+<p>💻 I Will Front-end-developer 💻</p>
+<p>🧩 I'm Growing everyday 🧩</p>
 
 <h2>🛠Tech Stack🛠</h2>
 <div>
