@@ -52,6 +52,6 @@ Here are some ideas to get you started:
    </div><br>
 
    
-   ![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun&show_icons=true&theme=radical)
+   ![Hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyun&show_icons=true&theme=cobalt)
    
 </div>
