@@ -48,7 +48,7 @@ Here are some ideas to get you started:
    <h2>🌎 Operating System Available 🌎</h2>
    <div>
      <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
-     <img src="https://img.shields.io/badge/MACOS-000000?style=flat-square&logo=Macos&logoColor=white"/>
+     <img src="https://img.shields.io/badge/MAC-000000?style=flat-square&logo=Macos&logoColor=white"/>
    </div>
 </div>
 
