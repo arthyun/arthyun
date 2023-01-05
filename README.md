@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
    
+<div align='end'>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farthyun&count_bg=%23A300DA&title_bg=%235B5B5B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/arthyun)
+</div>
 
 <h1>Welcome! 🤗</h1>
 <p>🙋‍♂️ I'm hyun. Nice to meet u. 🙋‍</p>
