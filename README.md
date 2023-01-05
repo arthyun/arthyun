@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1>Welcome! 🤗</h1>
 <p>🙋‍♂️ I'm hyun. Nice to meet u. 🙋‍</p>
 <p>💻 I will Front-end-developer. 💻</p>
-<p>🧩 I'm growing everyday. 🧩</p>
+<p>🧩 I'm growing everyday. 🧩</p><br>
 
    <h1>🛠 Tech Stack 🛠</h1>
    <div>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white"/>
      <img src="https://img.shields.io/badge/INDESIGN-FF3366?style=flat-square&logo=Adobeindesign&logoColor=white"/>
      <img src="https://img.shields.io/badge/PREMIEREPRO-9999FF?style=flat-square&logo=Adobepremierepro&logoColor=white"/>
-   </div>
+   </div><br>
   
    <h1>🌎 Operating System Available 🌎</h1>
    <div>
