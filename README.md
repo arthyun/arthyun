@@ -50,6 +50,8 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
      <img src="https://img.shields.io/badge/MAC-000000?style=flat-square&logo=Macos&logoColor=white"/>
    </div>
-</div>
 
-![arthyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthyun&show_icons=true&theme=radical)
+
+   ![arthyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthyun&show_icons=true&theme=radical)
+   
+</div>
