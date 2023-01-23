@@ -53,7 +53,7 @@ Here are some ideas to get you started:
    
    <h1>📧 Contact 📧</h1>
    <div>
-      <a href='#'>heun3316@naver.com</a>
+      <a href='mailto:heun3316@naver.com'>👉 heun3316@naver.com</a>
    </div><br>
 
    
