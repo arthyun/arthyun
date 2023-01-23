@@ -52,8 +52,9 @@ Here are some ideas to get you started:
    </div><br>
    
    <h1>📧 Contact 📧</h1>
-     heun3316@naver.com
-     <br>
+   <div>
+      <a href='#'>heun3316@naver.com</a>
+   </div><br>
 
    
    ![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthyun&show_icons=true&theme=tokyonight)
