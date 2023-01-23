@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align='center'>
 <h1>Welcome! 🤗</h1>
 <p>🙋‍♂️ I'm hyun. Nice to meet u. 🙋‍</p>
-<p>💻 I hope to become a Front-end developer. 💻</p>
-<p>🧩 I'm growing everyday. 🧩</p><br>
+<p>💪 I hope to become a Front-end developer. 💪</p>
+<p>🌱 I'm growing everyday. 🌱</p><br>
 
    <h1>🛠 Tech Stack 🛠</h1>
    <div>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/PREMIEREPRO-9999FF?style=flat-square&logo=Adobepremierepro&logoColor=white"/>
    </div><br>
   
-   <h1>🌎 Operating System Available 🌎</h1>
+   <h1>💻 Operating System Available 💻</h1>
    <div>
      <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
      <img src="https://img.shields.io/badge/MAC-000000?style=flat-square&logo=Macos&logoColor=white"/>
