@@ -53,8 +53,8 @@ Here are some ideas to get you started:
    
    <h1>📧 Contact 📧</h1>
    <div>
-      <a href='mailto:heun3316@naver.com'>👉 heun3316@naver.com</a>
-   </div><br>
+      <a href='mailto:heun3316@naver.com'>📍 heun3316@naver.com</a>
+   </div><br><br>
 
    
    ![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthyun&show_icons=true&theme=tokyonight)
