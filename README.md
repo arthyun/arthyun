@@ -49,12 +49,12 @@ Here are some ideas to get you started:
    <div>
      <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
      <img src="https://img.shields.io/badge/MAC-000000?style=flat-square&logo=Macos&logoColor=white"/>
-   </div><br>
+   </div><br><br>
    
 <!--    <h1>📧 Contact 📧</h1>
    <div>
       <a href='mailto:heun3316@naver.com'>📌 heun3316@naver.com</a>
-   </div><br><br> -->
+   </div><br> -->
 
    
    ![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthyun&show_icons=true&theme=tokyonight)
