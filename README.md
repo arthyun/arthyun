@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    <div>
      <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
       <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NEXT-181717?style=flat-square&logo=Next&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NEXT-181717?style=flat-square&logo=Next.js&logoColor=white"/>
      <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
