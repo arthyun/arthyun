@@ -51,10 +51,10 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/MAC-000000?style=flat-square&logo=Macos&logoColor=white"/>
    </div><br>
    
-   <h1>📧 Contact 📧</h1>
+<!--    <h1>📧 Contact 📧</h1>
    <div>
       <a href='mailto:heun3316@naver.com'>📌 heun3316@naver.com</a>
-   </div><br><br>
+   </div><br><br> -->
 
    
    ![hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthyun&show_icons=true&theme=tokyonight)
