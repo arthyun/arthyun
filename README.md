@@ -41,10 +41,10 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>
      <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>
      <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/><br>
-     <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/>
+<!--      <img src="https://img.shields.io/badge/PHOTOSHOP-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/>
      <img src="https://img.shields.io/badge/ILLUSTRATOR-FF9A00?style=flat-square&logo=Adobeillustrator&logoColor=white"/>
      <img src="https://img.shields.io/badge/INDESIGN-FF3366?style=flat-square&logo=Adobeindesign&logoColor=white"/>
-     <img src="https://img.shields.io/badge/PREMIEREPRO-9999FF?style=flat-square&logo=Adobepremierepro&logoColor=white"/>
+     <img src="https://img.shields.io/badge/PREMIEREPRO-9999FF?style=flat-square&logo=Adobepremierepro&logoColor=white"/> -->
    </div><br>
   
    <h1>💻 Operating System Available 💻</h1>
