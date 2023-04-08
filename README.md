@@ -51,7 +51,8 @@ Here are some ideas to get you started:
    <div>
      <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=flat-square&logo=Windows&logoColor=white"/>
      <img src="https://img.shields.io/badge/MAC-000000?style=flat-square&logo=Macos&logoColor=white"/>
-   </div><br> -->
+   </div> -->
+   <br>
    <br>
    
 <!--    <h1>📧 Contact 📧</h1>
