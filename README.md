@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
    <h1>🛠 Tech Stack 🛠</h1>
    <div>
-     <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+     <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black"/>
      <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
      <img src="https://img.shields.io/badge/VITE-5f3384?style=flat-square&logo=Vite&logoColor=white"/>
      <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white"/><br/>
      <img src="https://img.shields.io/badge/EXPRESS-68A063?style=flat-square&logo=Express&logoColor=white"/>
      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=Json&logoColor=white"/>
