@@ -33,7 +33,7 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
      <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
      <img src="https://img.shields.io/badge/MONGODB-008000?style=flat-square&logo=Mongodb&logoColor=white"/>
-     <img src="https://img.shields.io/badge/FIREBASE-FF9A00?style=flat-square&logo=Firebase&logoColor=white"/><br/>
+     <img src="https://img.shields.io/badge/FIREBASE-FF9A00?style=flat-square&logo=Firebase&logoColor=black"/><br/>
      <img src="https://img.shields.io/badge/MUI-002984?style=flat-square&logo=Mui&logoColor=white"/>
      <img src="https://img.shields.io/badge/HOMEBREW-897b66?style=flat-square&logo=Homebrew&logoColor=white"/>
      <img src="https://img.shields.io/badge/POSTMAN-ef5b25?style=flat-square&logo=Postman&logoColor=white"/>
