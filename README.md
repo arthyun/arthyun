@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
    <h1>🛠 Tech Stack 🛠</h1>
    <div>
-     <img src="https://img.shields.io/badge/NEXT-000000?style=flat-square&logo=Next&logoColor=black"/>
+     <img src="https://img.shields.io/badge/NEXT-000000?style=flat-square&logo=Nextjs&logoColor=black"/>
      <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black"/>
      <img src="https://img.shields.io/badge/REACTQUERY-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
      <img src="https://img.shields.io/badge/RECOIL-000000?style=flat-square&logo=Recoil&logoColor=white"/>
