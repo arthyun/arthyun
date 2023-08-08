@@ -23,27 +23,27 @@ Here are some ideas to get you started:
 
    <h1>🛠 Tech Stack 🛠</h1>
    <div>
-     <img src="https://img.shields.io/badge/NEXT-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-     <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-     <img src="https://img.shields.io/badge/REACTQUERY-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
-     <img src="https://img.shields.io/badge/RECOIL-000000?style=flat-square&logo=Recoil&logoColor=white"/>
-     <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-     <img src="https://img.shields.io/badge/VITE-5f3384?style=flat-square&logo=Vite&logoColor=white"/><br/>
+     <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+     <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Vite-5f3384?style=flat-square&logo=Vite&logoColor=white"/><br/>
      <img src="https://img.shields.io/badge/Styled_components-27215e?style=flat-square&logo=Styledcomponents&logoColor=white"/>
-     <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
-     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
-     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-     <img src="https://img.shields.io/badge/EXPRESS-68A063?style=flat-square&logo=Express&logoColor=white"/><br/>
+     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
+     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Express-68A063?style=flat-square&logo=Express&logoColor=white"/><br/>
      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=Json&logoColor=white"/>
      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
-     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
-     <img src="https://img.shields.io/badge/MONGODB-008000?style=flat-square&logo=Mongodb&logoColor=white"/>
-     <img src="https://img.shields.io/badge/FIREBASE-FF9A00?style=flat-square&logo=Firebase&logoColor=white"/>
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+     <img src="https://img.shields.io/badge/MongoDB-008000?style=flat-square&logo=Mongodb&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Firebase-FF9A00?style=flat-square&logo=Firebase&logoColor=white"/>
      <img src="https://img.shields.io/badge/MUI-002984?style=flat-square&logo=Mui&logoColor=white"/><br/>
-     <img src="https://img.shields.io/badge/HOMEBREW-897b66?style=flat-square&logo=Homebrew&logoColor=white"/>
-     <img src="https://img.shields.io/badge/POSTMAN-ef5b25?style=flat-square&logo=Postman&logoColor=white"/>
-     <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>
-     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Homebrew-897b66?style=flat-square&logo=Homebrew&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Postman-ef5b25?style=flat-square&logo=Postman&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
       
 <!---
      <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
