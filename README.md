@@ -29,6 +29,7 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/RECOIL-000000?style=flat-square&logo=Recoil&logoColor=white"/>
      <img src="https://img.shields.io/badge/REDUX-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
      <img src="https://img.shields.io/badge/VITE-5f3384?style=flat-square&logo=Vite&logoColor=white"/><br/>
+     <img src="https://img.shields.io/badge/Styled_components-27215e?style=flat-square&logo=Styledcomponents&logoColor=white"/>
      <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
      <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
