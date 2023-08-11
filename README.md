@@ -40,9 +40,9 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/MongoDB-008000?style=flat-square&logo=Mongodb&logoColor=white"/>
      <img src="https://img.shields.io/badge/Firebase-FF9A00?style=flat-square&logo=Firebase&logoColor=white"/>
      <img src="https://img.shields.io/badge/MUI-002984?style=flat-square&logo=Mui&logoColor=white"/><br/>
+     <img src="https://img.shields.io/badge/Jenkins-d24939?style=flat-square&logo=Jenkins&logoColor=white"/>
      <img src="https://img.shields.io/badge/Homebrew-897b66?style=flat-square&logo=Homebrew&logoColor=white"/>
      <img src="https://img.shields.io/badge/Postman-ef5b25?style=flat-square&logo=Postman&logoColor=white"/>
-     <img src="https://img.shields.io/badge/Jenkins-d24939?style=flat-square&logo=Jenkins&logoColor=white"/>
      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
      <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
       
